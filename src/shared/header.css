@@ -1,0 +1,8 @@
+.exemple {
+  color: red;
+}
+
+:global(h1) {
+  margin: 0;
+  padding: 0;
+}
